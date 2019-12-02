@@ -18,7 +18,7 @@ urn:cts:greekLit:tlg0012.tlg001.e4:1.32		a)ll# i)/qi mh/ m# e)re/qize saw/teros 
 
 urn:cts:greekLit:tlg0012.tlg001.allen:1.33	ὣς ἔφατʼ , ἔδεισεν δʼ ὃ γέρων καὶ ἐπείθετο μύθῳ ·
 urn:cts:greekLit:tlg0012.tlg001.allen:1.33	w(\s e)/fat# , e)/deisen d# o(\ ge/rwn kai\ e)pei/qeto mu/qw| #
-urn:cts:greekLit:tlg0012.tlg001.e4:1.33		w(\s e)/fat# , e)/deisen d# o(\ ge/rwn kai\ e)pei/qeto mu/qw| #
+urn:cts:greekLit:tlg0012.tlg001.e4:1.33		w(\s e)/fat# , e)/ddeisen d# o(\ ge/rwn kai\ e)pei/qeto mu/qw| #
 
 urn:cts:greekLit:tlg0012.tlg001.allen:1.34	βῆ δʼ ἀκέων παρὰ θῖνα πολυφλοίσβοιο θαλάσσης ·
 urn:cts:greekLit:tlg0012.tlg001.allen:1.34	bh= d# a)ke/wn para\ qi=na polufloi/sboio qala/sshs #
@@ -26,4 +26,4 @@ urn:cts:greekLit:tlg0012.tlg001.e4:1.34		bh= d# a)ke/wn para\ qi=na polufloi/sbo
 
 urn:cts:greekLit:tlg0012.tlg001.allen:1.35	πολλὰ δʼ ἔπειτʼ ἀπάνευθε κιὼν ἠρᾶθʼ ὃ γεραιὸς
 urn:cts:greekLit:tlg0012.tlg001.allen:1.35	polla\ d# e)/peit# a)pa/neuqe kiw\n h)ra=q# o(\ geraio\s
-urn:cts:greekLit:tlg0012.tlg001.e4:1.35		polla\ d# e)/peit# a)pa/neuqe kiw\n h)ra=q# o(\ geraio\s
+urn:cts:greekLit:tlg0012.tlg001.e4:1.35		polla\ d# e)/peit# a)pa/neuqe ki h)ra=q# o(\ geraio\s
