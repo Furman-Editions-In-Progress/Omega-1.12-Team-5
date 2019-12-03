@@ -2,7 +2,7 @@
 
 urn:cts:greekLit:tlg0012.tlg001.allen:1.29	τὴν δʼ ἐγὼ οὐ λύσω · πρίν μιν καὶ γῆρας ἔπεισιν
 urn:cts:greekLit:tlg0012.tlg001.allen:1.29	th\n d# e)gw\ ou) lu/sw # pri/n min kai\ gh=ras e)/peisin
-urn:cts:greekLit:tlg0012.tlg001.e4:1.29		th\n d' e)gw\ ou) lu/sw # pri/n min kai\ gh=ras e)/peisin
+urn:cts:greekLit:tlg0012.tlg001.e4:1.29		th\n d' e)gw\ ou) lu/sw : pri/n min kai\ gh=ras e)/peisin
 
 urn:cts:greekLit:tlg0012.tlg001.allen:1.30	ἡμετέρῳ ἐνὶ οἴκῳ ἐν Ἄργεϊ τηλόθι πάτρης
 urn:cts:greekLit:tlg0012.tlg001.allen:1.30	h(mete/rw| e)ni\ oi)/kw| e)n *a)/rgei+ thlo/qi pa/trhs
